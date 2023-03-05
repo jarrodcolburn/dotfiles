@@ -1,0 +1,7 @@
+{
+  "features": {
+    "ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2": {
+      "shallowClone" : true
+    }
+  }
+}
