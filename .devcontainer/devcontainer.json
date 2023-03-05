@@ -1,8 +1,6 @@
 {
   "features": {
-    "ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2": {
-      "shallowClone" : true
-    },
+    "ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2": {},
      "ghcr.io/devcontainers/features/rust:1": {},
      "ghcr.io/devcontainers-contrib/features/neovim-homebrew:1": {}
   }
