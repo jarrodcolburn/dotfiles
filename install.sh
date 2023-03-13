@@ -7,3 +7,5 @@ for SRC in copy/* ; do
     rm -f $DEST
     cp -f $SRC $DEST 
 done
+
+antidote load
