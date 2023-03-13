@@ -10,5 +10,3 @@ git clone --depth=1 https://github.com/mattmc3/antidote.git ${ZDOTDIR:-~}/.antid
 source ${ZDOTDIR:-~}/.antidote/antidote.zsh
 antidote load
 
-# load zsh once to install load antibody
-zsh
