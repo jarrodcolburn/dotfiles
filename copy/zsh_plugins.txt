@@ -1,5 +1,11 @@
-romkatv/powerlevel10k
 # .zsh_plugins.txt
+
+# powerlevel10k theme
+romkatv/powerlevel10k
+
+
+# vim-mode
+jeffreytse/zsh-vi-mode
 
 # comments are supported like this
 rupa/z
