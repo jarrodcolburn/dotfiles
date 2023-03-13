@@ -1,7 +1,5 @@
 {
   "features": {
-    "ghcr.io/devcontainers/features/common-utils:2": {
-      "installOhMyZsh" : false
-    }
+    "ghcr.io/devcontainers/features/common-utils:2": {}
   }
 }
