@@ -9,4 +9,6 @@ fi
 # source antidote
 source ${ZDOTDIR:-~}/.antidote/antidote.zsh
 # initialize plugins statically with ${ZDOTDIR:-~}/.zsh_plugins.txt
-antidote load
+# antidote load
+source ~/.zsh_plugins.zsh
+
